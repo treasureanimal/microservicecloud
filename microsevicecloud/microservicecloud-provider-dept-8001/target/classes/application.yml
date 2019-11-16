@@ -1,0 +1,41 @@
+server:
+  port: 8001
+
+mybatis:
+  config-location: classpath:mybatis/mybatis.cfg.xml        # mybatis配置文件所在路径
+  type-aliases-package: com.sgg.springcloud.entity          # 所有Entity别名类所在包
+  mapper-locations: classpath:mybatis/mapper/**/*.xml                       # mapper映射文件
+# 打印sql
+logging:
+  level:
+    com.sgg.springcloud.dao: debug
+spring:
+  application:
+    name: MICROSERVICECLOUD-DEPT
+  datasource:
+    type: com.alibaba.druid.pool.DruidDataSource            # 当前数据源操作类型
+    url: jdbc:mysql://localhost:3306/cloudDB01?useUnicode=true&characterEncoding=utf8&useJDBCCompliantTimezoneShift=true&useLegacyDatetimeCode=false&serverTimezone=GMT%2B8
+    username: root
+    password: 123456
+    driver-class-name: com.mysql.cj.jdbc.Driver
+    dbcp2:
+      min-idle: 5                                           # 数据库连接池的最小维持连接数
+      initial-size: 5                                       # 初始化连接数
+      max-total: 5                                          # 最大连接数
+      max-wait-millis: 200                                  # 等待连接获取的最大超时时间
+
+eureka:
+  client: #客户端注册进eureka服务列表内
+    service-url:
+      #defaultZone: http://user:123456@localhost:7001/eureka/
+      defaultZone: http://user:123456@eureka7001:7001/eureka/,http://user:123456@eureka7002:7002/eureka/,http://user:123456@eureka7003:7003/eureka/
+  instance:
+    instance-id: microservicecloud-dept8001
+    prefer-ip-address: true     #访问路径可以显示IP地址
+#
+info:
+  app.name: microservicecloud
+  company.name: www.sgg.com
+  build.artifactId: $project.artifactId$
+  build.version: $project.version$
+

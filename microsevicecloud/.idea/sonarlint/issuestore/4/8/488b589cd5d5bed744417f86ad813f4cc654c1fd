@@ -1,0 +1,5 @@
+
+qsquid:S00101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ûÛå¼þÿÿÿÿ8óûÕÊæ-
+“squid:UselessImportCheck"hRemove this unused import 'com.netflix.hystrix.contrib.metrics.eventstream.HystrixMetricsStreamServlet'.(àµˆ™8Áý¼Ðæ-
+„squid:UselessImportCheck"YRemove this unused import 'org.springframework.boot.web.servlet.ServletRegistrationBean'.(Ý­ã²8Áý¼Ðæ-
+ssquid:UselessImportCheck	"HRemove this unused import 'org.springframework.context.annotation.Bean'.(‚î‰Þ8Áý¼Ðæ-

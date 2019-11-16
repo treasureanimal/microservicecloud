@@ -1,0 +1,15 @@
+server:
+  port: 3344
+
+spring:
+  application:
+    name: microservicecloud-config
+  cloud:
+    config:
+      server:
+        git:
+          uri: https://github.com/treasureanimal/microservicecloud-config.git #GitHub上面的git仓库名字
+          ignore-local-ssh-settings: true
+          force-pull: true
+          username: 824839090@qq.com
+          password: Miao0817@

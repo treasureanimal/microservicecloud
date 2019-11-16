@@ -1,0 +1,12 @@
+server:
+  port: 80
+eureka:
+  client:
+    register-with-eureka: false     #false表示不向注册中心注册自己。
+    service-url:
+      #单机 defaultZone: http://${eureka.instance.hostname}:${server.port}/eureka/       #设置与Eureka Server交互的地址查询服务和注册服务都需要依赖这个地址（单机）。
+      defaultZone: http://user:123456@eureka7002:7002/eureka/,http://user:123456@eureka7003:7003/eureka/
+#服务熔断打开
+feign:
+  hystrix:
+    enabled: true

@@ -1,0 +1,13 @@
+
+T
+squid:S106?"9Replace this use of System.out or System.err by a logger.(ñ¦«îøÿÿÿÿ
+_squid:S4488"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(ì¢àß
+dsquid:S44888"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(Ì‹…ûÿÿÿÿ
+T
+squid:S106;"9Replace this use of System.out or System.err by a logger.(³’ìÃúÿÿÿÿ
+fsquid:S4488"JReplace "@RequestMapping(method = RequestMethod.POST)" with "@PostMapping"(ÿŞÚëÿÿÿÿÿ
+jsquid:S00112$"FDefine and throw a dedicated exception instead of using a generic one.(Ô›Á¦ÿÿÿÿÿ8§éÉÉæ-
+rsquid:S00100)"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‰†úŞúÿÿÿÿ8ÑÅÁÉæ-
+O
+squid:S1063"9Replace this use of System.out or System.err by a logger.(ŸÏÍè
+_squid:S4488/"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(¯©°

@@ -1,0 +1,7 @@
+
+isquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(¾ÉÆ”8»¢ÄÃæ-
+xsquid:UselessImportCheck"HRemove this unused import 'org.springframework.web.client.RestTemplate'.(Îö¼Şûÿÿÿÿ8»¢ÄÃæ-
+asquid:S3752">Add a "method" parameter to this "@RequestMapping" annotation.(îÉñÇıÿÿÿÿ8»¢ÄÃæ-
+\squid:S3752">Add a "method" parameter to this "@RequestMapping" annotation.(çÔ¡ô8»¢ÄÃæ-
+qsquid:S00101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(Ë—åÜıÿÿÿÿ8»¢ÄÃæ-
+asquid:S3752">Add a "method" parameter to this "@RequestMapping" annotation.(ÜÓÎûùÿÿÿÿ8»¢ÄÃæ-

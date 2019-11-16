@@ -1,0 +1,283 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="53cdacf4-bfc5-4e76-bb41-16b1a89acc94" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../../gitRepository/microservicecloud-config" beforeDir="false" afterPath="$PROJECT_DIR$/../../gitRepository/microservicecloud-config" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../gitRepository" />
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+  </component>
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="D:/Program Files (x86)/apache-maven-3.6.1" />
+        <option name="userSettingsFile" value="D:\Program Files (x86)\apache-maven-3.6.1\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1TTTUZBbdTrKrnGlSkcnHWy6ryY" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="jdk.selected.JAVA_MODULE" value="1.8" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/microservicecloud-eureka-7003/src/main/java" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/microservicecloud-config-client-3355/src/main/resources" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.23336968" />
+    <property name="project.structure.side.proportion" value="0.32337245" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.sgg.springcloud" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Program Files\ideaworkspaces\microsevicecloud\microservicecloud-config-client-3355\src\main\resources" />
+      <recent name="D:\Program Files\ideaworkspaces\microsevicecloud\microservicecloud-config-dept-client-8001\src\main\java\com\sgg\springcloud" />
+      <recent name="D:\Program Files\ideaworkspaces\microsevicecloud\microservicecloud-config-dept-client-8001\src\main\resources" />
+      <recent name="D:\Program Files\ideaworkspaces\microsevicecloud\microservicecloud-config-eureka-client-7001\src\main\java\com\sgg\springcloud" />
+      <recent name="D:\Program Files\ideaworkspaces\microsevicecloud\microservicecloud-config-eureka-client-7001\src\main\resources" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.sgg.springcloud" />
+      <recent name="com.sgg.springcloud.service.impl" />
+      <recent name="com.sgg.springcloud.service" />
+      <recent name="com.sgg.springcloud.dao" />
+      <recent name="com.sgg.springcloud.controller" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Program Files\ideaworkspaces\microsevicecloud\microservicecloud-provider-dept-8003\src\main\resources" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.DeptProvider8001_Config_App">
+    <configuration name="ConfigClient_3355_StartSpringCloudApp" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="microservicecloudconfigclient3355" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.sgg.springcloud.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.sgg.springcloud.ConfigClient_3355_StartSpringCloudApp" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Config_3344_StartSpringCloudApp" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="microservicecloudconfig3344" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.sgg.springcloud.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.sgg.springcloud.Config_3344_StartSpringCloudApp" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Config_Git_EurekaServerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="microservicecloudconfigeurekaclient7001" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.sgg.springcloud.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.sgg.springcloud.Config_Git_EurekaServerApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DeptConsumer80_App" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="microservicecloud-consumer-dept-80" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.sgg.springcloud.DeptConsumer80_App" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DeptProvider8001_Config_App" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="microservicecloudconfigdeptclient8001" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.sgg.springcloud.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.sgg.springcloud.DeptProvider8001_Config_App" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DeptProvider8002_App" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="microservicecloudproviderdept8002" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.sgg.springcloud.DeptProvider8002_App" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DeptProvider8002_App" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="microservicecloudproviderdept8002" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="springcloud.DeptProvider8002_App" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Zuul_9527_StartSpringCloudApp" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="microservicecloudzuulgateway9527" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.sgg.sprincloud.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.sgg.sprincloud.Zuul_9527_StartSpringCloudApp" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Spring Boot.DeptProvider8002_App" />
+      <item itemvalue="Spring Boot.DeptConsumer80_App" />
+      <item itemvalue="Spring Boot.Zuul_9527_StartSpringCloudApp" />
+      <item itemvalue="Spring Boot.Config_3344_StartSpringCloudApp" />
+      <item itemvalue="Spring Boot.ConfigClient_3355_StartSpringCloudApp" />
+      <item itemvalue="Spring Boot.Config_Git_EurekaServerApplication" />
+      <item itemvalue="Spring Boot.DeptProvider8001_Config_App" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.DeptProvider8001_Config_App" />
+        <item itemvalue="Spring Boot.Config_Git_EurekaServerApplication" />
+        <item itemvalue="Spring Boot.ConfigClient_3355_StartSpringCloudApp" />
+        <item itemvalue="Spring Boot.Config_3344_StartSpringCloudApp" />
+        <item itemvalue="Spring Boot.Zuul_9527_StartSpringCloudApp" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="53cdacf4-bfc5-4e76-bb41-16b1a89acc94" name="Default Changelist" comment="" />
+      <created>1573483101957</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1573483101957</updated>
+      <workItem from="1573483104497" duration="3215000" />
+      <workItem from="1573488604969" duration="152000" />
+      <workItem from="1573488795702" duration="1995000" />
+      <workItem from="1573517352356" duration="12832000" />
+      <workItem from="1573532193890" duration="7000" />
+      <workItem from="1573532279773" duration="20000" />
+      <workItem from="1573532609996" duration="1815000" />
+      <workItem from="1573534535392" duration="2364000" />
+      <workItem from="1573537442007" duration="111000" />
+      <workItem from="1573537670809" duration="38000" />
+      <workItem from="1573537764919" duration="727000" />
+      <workItem from="1573538517458" duration="1616000" />
+      <workItem from="1573540226931" duration="746000" />
+      <workItem from="1573542393842" duration="1450000" />
+      <workItem from="1573548184257" duration="21182000" />
+      <workItem from="1573605053269" duration="30321000" />
+      <workItem from="1573692679850" duration="26774000" />
+      <workItem from="1573791069997" duration="14906000" />
+      <workItem from="1573865984625" duration="4005000" />
+      <workItem from="1573873839173" duration="5358000" />
+      <workItem from="1573885361334" duration="1085000" />
+      <workItem from="1573886535589" duration="24529000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/microservicecloud-consumer-dept-80/src/main/java/com/sgg/springcloud/controller/DeptController_Consumer.java</url>
+          <line>29</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/microservicecloud-config-client-3355/src/main/java/com/sgg/springcloud/rest/ConfigClientRest.java</url>
+          <line>22</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

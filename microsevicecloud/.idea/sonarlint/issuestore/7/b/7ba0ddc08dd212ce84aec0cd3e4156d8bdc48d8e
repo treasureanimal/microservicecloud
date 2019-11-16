@@ -1,0 +1,11 @@
+
+[
+squid:S1064"9Replace this use of System.out or System.err by a logger.(ñ¦«îøÿÿÿÿ8Û³Ä‚æ-
+msquid:S4488"JReplace "@RequestMapping(method = RequestMethod.POST)" with "@PostMapping"(ÿŞÚëÿÿÿÿÿ8ŞÒ³÷å-
+fsquid:S4488$"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(¯©°8Ã­ºòå-
+[
+squid:S1060"9Replace this use of System.out or System.err by a logger.(³’ìÃúÿÿÿÿ8Û³Ä‚æ-
+fsquid:S4488"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(ì¢àß8Ã­ºòå-
+ksquid:S4488-"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(Ì‹…ûÿÿÿÿ8Û³Ä‚æ-
+V
+squid:S106("9Replace this use of System.out or System.err by a logger.(ŸÏÍè8„Óëå-
